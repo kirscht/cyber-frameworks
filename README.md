@@ -19,7 +19,6 @@ Tracking Cyber Frameworks
 ## Frameworks ##
 
 | Framework | Description | Prev Version | Current Version | Links |
-|                 |             |              |                |        |
 | [NIST Cybersecurity Framework CSF](https://www.nist.gov/cyberframework) | describe | [1.1](https://www.nist.gov/cyberframework/csf-11-archive) | [2.0](https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.pdf) | [2.0](https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.pdf) |
 |                 |             |              |                |        |
 | [NIST 800-37](https://www.nist.gov/privacy-framework/nist-sp-800-37) | Risk Management Framework (RMF) / Risk Management Excellence | v1 | [v2](https://www.nist.gov/privacy-framework/nist-sp-800-37) | - [Course: Risk Management Excellence - NIST 800-37 Framework Training - Feb 2024](https://learning.oreilly.com/course/risk-management-excellence/9781835880760/)  |
