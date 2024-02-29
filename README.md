@@ -22,8 +22,7 @@ Tracking Cyber Frameworks
 | -------------------------------- | ------------------------------- | --------------: | ---------------: | ---------------------------- |
 | [NIST Cybersecurity Framework CSF](https://www.nist.gov/cyberframework) | describe | [1.1](https://www.nist.gov/cyberframework/csf-11-archive) | [2.0](https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.pdf) | [2.0](https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.pdf) |
 |                 |             |              |                |        |
-| [AI RISK MANAGEMENT FRAMEWORK](https://www.nist.gov/itl/ai-risk-management-framework) | AI Risk Management Framework | None | [v1.0](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf) | - [NIST ARTIFICIAL INTELLIGENCE](https://www.nist.gov/artificial-intelligence) <br><br>- [Securing Large Language Model 
-Development and Deployment](https://www.nist.gov/system/files/documents/2024/02/01/NIST-LLMs-Nick-Hamilton.pdf)      |
+| [AI RISK MANAGEMENT FRAMEWORK](https://www.nist.gov/itl/ai-risk-management-framework) | AI Risk Management Framework | None | [v1.0](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf) | - [NIST ARTIFICIAL INTELLIGENCE](https://www.nist.gov/artificial-intelligence) <br><br>- [Securing Large Language Model Development and Deployment](https://www.nist.gov/system/files/documents/2024/02/01/NIST-LLMs-Nick-Hamilton.pdf)      |
 |                 |             |              |                |        |
 | [NIST 800-37](https://www.nist.gov/privacy-framework/nist-sp-800-37) | Risk Management Framework (RMF) / Risk Management Excellence | v1 | [v2](https://www.nist.gov/privacy-framework/nist-sp-800-37) | - [Course: Risk Management Excellence - NIST 800-37 Framework Training - Feb 2024](https://learning.oreilly.com/course/risk-management-excellence/9781835880760/)  |
 |                 |             |              |                |        |
