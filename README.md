@@ -23,6 +23,7 @@ Tracking Cyber Frameworks
 
 | Standard | Description | Versions | Links |
 | -------------------------------- | ------------------------------- | :---------------: | ---------------------------- |
+|                                  |                                 |                  |                              |
 | [NIST Cybersecurity Framework CSF](https://www.nist.gov/cyberframework) | describe | [v2.0](https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.pdf) <br>[v1.1](https://www.nist.gov/cyberframework/csf-11-archive) | [2.0](https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.pdf) |
 |                                  |                                 |                  |                              |
 | [AI RISK MANAGEMENT FRAMEWORK](https://www.nist.gov/itl/ai-risk-management-framework) | AI Risk Management Framework | [v1.0](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf) | - [NIST ARTIFICIAL INTELLIGENCE](https://www.nist.gov/artificial-intelligence) <br><br>- [Securing Large Language Model Development and Deployment](https://www.nist.gov/system/files/documents/2024/02/01/NIST-LLMs-Nick-Hamilton.pdf) <br><br>- [Workshop: SECURE USE OF LLMs AND GEN AI SYSTEMS - Jan 2024](https://www.nist.gov/system/files/documents/2024/01/23/David_Beveridge_NIST%20Jan%202024%20workshop%20on%20Secure%20use%20of%20LLM%20%26%20Gen%20AI%20.pdf) <br><br>- [Infosec Magazine: What the OWASP Top 10 for LLMs Means for the Future of AI Security - August 2023](https://www.infosecurity-magazine.com/news-features/owasp-top-10-llm-means-future-ai/) <br><br>- [Bing: Generative AI Models](https://www.bing.com/search?pglt=41&q=generative+ai+models+list&cvid=115863dc23634767ba48f5d05f052c34&gs_lcrp=EgZjaHJvbWUqBggCEAAYQDIGCAAQABhAMgYIARBFGDkyBggCEAAYQDIGCAMQABhAMgYIBBAAGEAyBggFEAAYQDIGCAYQABhAMgYIBxAAGEAyBggIEAAYQNIBCDY3MzhqMGoxqAIAsAIA&FORM=ANNTA1&PC=U531)    |
@@ -37,6 +38,7 @@ Tracking Cyber Frameworks
 
 | Standard | Description | Versions | Links |
 | -------------------------------- | ------------------------------- | :---------------: | ---------------------------- |
+|                                  |                                 |                  |                              |
 | [NIST SP 800-61](https://www.nist.gov/privacy-framework/nist-sp-800-61) | Computer Security Incident Handling Guide | [v2.0](https://csrc.nist.gov/pubs/sp/800/61/r2/final) <br>v1 | [NIST Incident Response](https://csrc.nist.gov/Topics/Security-and-Privacy/security-programs-and-operations/incident-response) |
 |                                  |                                 |                  |                              |
 | [SP NIST 800-92](https://csrc.nist.gov/Projects/log-management) | Log Management      | [v1 (ipd)](https://csrc.nist.gov/pubs/sp/800/92/r1/ipd)               |        |
