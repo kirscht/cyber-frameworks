@@ -22,6 +22,8 @@ Tracking Cyber Frameworks
 | -------------------------------- | ------------------------------- | --------------: | ---------------: | ---------------------------- |
 | [NIST Cybersecurity Framework CSF](https://www.nist.gov/cyberframework) | describe | [1.1](https://www.nist.gov/cyberframework/csf-11-archive) | [2.0](https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.pdf) | [2.0](https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.pdf) |
 |                 |             |              |                |        |
+| [AI RISK MANAGEMENT FRAMEWORK](https://www.nist.gov/itl/ai-risk-management-framework) | AI Risk Management Framework | None | [v1.0](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf) |        |
+|                 |             |              |                |        |
 | [NIST 800-37](https://www.nist.gov/privacy-framework/nist-sp-800-37) | Risk Management Framework (RMF) / Risk Management Excellence | v1 | [v2](https://www.nist.gov/privacy-framework/nist-sp-800-37) | - [Course: Risk Management Excellence - NIST 800-37 Framework Training - Feb 2024](https://learning.oreilly.com/course/risk-management-excellence/9781835880760/)  |
 |                 |             |              |                |        |
 | [NIST 800-53](https://www.nist.gov/privacy-framework/nist-sp-800-53) | Framework of security and privacy controls for federal information systems and organizations and a process for selecting controls to protect organizational operations | [v4](https://csrc.nist.gov/pubs/sp/800/53/r4/upd2/final) | [v5](https://www.nist.gov/privacy-framework/nist-privacy-framework-and-cybersecurity-framework-nist-special-publication-800-53) | - [XLS: Guidance Resource - NIST SP 80053_IPD_mapping](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fusnistgov%2FPrivacyFrmwkResources%2Fmaster%2Fresources%2Fz%2520Archive%2FNIST%2520SP%2520800-53%2520Guidance%2FGuidance%2520Resource%2520-%2520NIST%2520SP%252080053_IPD_mapping.xlsx&wdOrigin=BROWSELINK) <br><br>- [Publication: NIST Privacy Framework and Cybersecurity Framework to NIST Special Publication 800-53](https://www.nist.gov/privacy-framework/nist-sp-800-53) |
@@ -39,7 +41,6 @@ Tracking Cyber Frameworks
 | [800-207](https://www.nist.gov/publications/zero-trust-architecture) | Zero Trust Framework | v1 | [v2](https://www.nist.gov/publications/zero-trust-architecture) | <br><br>- [The Zero Trust Framework](https://learning.oreilly.com/course/the-zero-trust/9780138251826/) |
 |                 |             |              |                |        |
 | [800-171](https://csrc.nist.gov/pubs/sp/800/171/r3/fpd) | Protecting Controlled Unclassified Information | | [v3](https://csrc.nist.gov/pubs/sp/800/171/r3/fpd) |        |
-|                 |             |              |                |        |
 |                 |             |              |                |        |
 |                 |             |              |                |        |
 |                 |             |              |                |        |
