@@ -2,7 +2,7 @@
 Tracking Cyber Frameworks
 
 
-| Framework | Description | Prev Version | Current Version | Links |
+| Standard | Description | Prev Version | Current Version | Links |
 | -------------------------------- | ------------------------------- | --------------: | ---------------: | ---------------------------- |
 |                 |             |              |                |        |
 | [ISO IEC 27001](https://www.iso.org/standard/27001) <br>[ISO/IEC 27002:2022](https://www.iso.org/standard/75652.html) | Provides guidance for establishing, implementing, maintaining, and continually improving an information security management system. | | [2022](https://www.iso.org/standard/27001) | - [Book: Information Security Risk Management for ISO27001/ISO27002](https://learning.oreilly.com/library/view/information-security-risk/9781849281492/) <br><br>- [Book: ISO 27001/ISO 27002 - A guide to information security management systems - 2023](https://learning.oreilly.com/library/view/iso-27001-iso-27002/9781787784956/) <br><br>- [Book: ISO 27001 controls – A guide to implementing and auditing](https://learning.oreilly.com/library/view/iso-27001-controls/9781787781467/) <br><br>- [Book: Information Security Risk Management for ISO 27001/ISO 27002, third edition](https://learning.oreilly.com/library/view/information-security-risk/9781787781382/) <br><br>- [Pocketbook: ISO27001 / ISO27002, A Pocket Guide, Second Edition](https://learning.oreilly.com/library/view/iso27001-iso27002/9781849285230/) <br><br>- [Course: ISO 27001 ISMS Foundation Training Course](https://learning.oreilly.com/course/iso-27001-isms/9781787782907/) <br><br>- [Course: ISO 27001 ISMS Lead Implementer Training Course](https://learning.oreilly.com/course/iso-27001-isms/9781787783478/) <br><br>- [Course: ISO 27001:2022 ISMS Lead Implementer Training Course](https://learning.oreilly.com/course/iso-27001-2022-isms/9781787785069/) <br><br>- [NIST Cybersecurity Framework 2.0: Quick-Start Guide for Creating and Using Organizational Profiles - Feb 2024](https://www.nist.gov/publications/nist-cybersecurity-framework-20-quick-start-guide-creating-and-using-organizational) |
@@ -35,7 +35,6 @@ Tracking Cyber Frameworks
 
 | Publication | Description | Prev Version | Current Version | Links |
 | -------------------------------- | ------------------------------- | --------------: | ---------------: | ---------------------------- |
-|                 |             |              |                |        |
 | [NIST SP 800-61](https://www.nist.gov/privacy-framework/nist-sp-800-61) | Computer Security Incident Handling Guide | v1 | [v2.0](https://csrc.nist.gov/pubs/sp/800/61/r2/final) | [NIST Incident Response](https://csrc.nist.gov/Topics/Security-and-Privacy/security-programs-and-operations/incident-response) |
 |                 |             |              |                |        |
 | [SP NIST 800-92](https://csrc.nist.gov/Projects/log-management) | Log Management |              | [v1 ipd](https://csrc.nist.gov/pubs/sp/800/92/r1/ipd)               |        |
