@@ -27,7 +27,6 @@ Tracking Cyber Frameworks
 | [NIST 800-37](https://www.nist.gov/privacy-framework/nist-sp-800-37) | Risk Management Framework (RMF) / Risk Management Excellence | v1 | [v2](https://www.nist.gov/privacy-framework/nist-sp-800-37) | - [Course: Risk Management Excellence - NIST 800-37 Framework Training - Feb 2024](https://learning.oreilly.com/course/risk-management-excellence/9781835880760/)  |
 |                 |             |              |                |        |
 | [NIST 800-53](https://www.nist.gov/privacy-framework/nist-sp-800-53) | Framework of security and privacy controls for federal information systems and organizations and a process for selecting controls to protect organizational operations | [v4](https://csrc.nist.gov/pubs/sp/800/53/r4/upd2/final) | [v5](https://www.nist.gov/privacy-framework/nist-privacy-framework-and-cybersecurity-framework-nist-special-publication-800-53) | - [XLS: Guidance Resource - NIST SP 80053_IPD_mapping](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fusnistgov%2FPrivacyFrmwkResources%2Fmaster%2Fresources%2Fz%2520Archive%2FNIST%2520SP%2520800-53%2520Guidance%2FGuidance%2520Resource%2520-%2520NIST%2520SP%252080053_IPD_mapping.xlsx&wdOrigin=BROWSELINK) <br><br>- [Publication: NIST Privacy Framework and Cybersecurity Framework to NIST Special Publication 800-53](https://www.nist.gov/privacy-framework/nist-sp-800-53) |
-| [NIST SP 800-61](https://www.nist.gov/privacy-framework/nist-sp-800-61) | Privacy Framework ??? Computer Security Incident Handling Guide | v3 | [v2](https://www.nist.gov/privacy-framework/nist-sp-800-61) | 
 
 
 
@@ -36,7 +35,7 @@ Tracking Cyber Frameworks
 | Publication | Description | Prev Version | Current Version | Links |
 | -------------------------------- | ------------------------------- | --------------: | ---------------: | ---------------------------- |
 |                 |             |              |                |        |
-| [NIST SP 800-61](https://csrc.nist.gov/pubs/sp/800/61/r2/final) | Computer Security Incident Handling Guide | v1 | [v2.0](https://csrc.nist.gov/pubs/sp/800/61/r2/final)(https://csrc.nist.gov/pubs/sp/800/61/r2/final))               |        |
+| [NIST SP 800-61](https://www.nist.gov/privacy-framework/nist-sp-800-61) | Computer Security Incident Handling Guide | v1 | [v2.0](https://csrc.nist.gov/pubs/sp/800/61/r2/final) |        |
 |                 |             |              |                |        |
 | [SP NIST 800-92](https://csrc.nist.gov/Projects/log-management) | Log Management |              | [v1 ipd](https://csrc.nist.gov/pubs/sp/800/92/r1/ipd)               |        |
 |                 |             |              |                |        |
